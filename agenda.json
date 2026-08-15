@@ -8,7 +8,17 @@
                 "team2": "Corinthians",
                 "time": "15:30",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXNwb3J0dg=="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXNwb3J0dg==",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXNwb3J0dg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09c3BvcnR2"
+                    }
+                ]
             }
         ]
     },
@@ -21,7 +31,13 @@
                 "team2": "San Marcos",
                 "time": "19:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXZlbjY="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXZlbjY=",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXZlbjY="
+                    }
+                ]
             },
             {
                 "id": "33",
@@ -29,7 +45,13 @@
                 "team2": "Magallanes",
                 "time": "14:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXZlbjY="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXZlbjY=",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXZlbjY="
+                    }
+                ]
             }
         ]
     },
@@ -42,7 +64,13 @@
                 "team2": "Rubio Ñú",
                 "time": "14:00",
                 "status": "Upcoming",
-                "originalUrl": "#"
+                "originalUrl": "#",
+                "sources": [
+                    {
+                        "name": "Servidor Principal",
+                        "url": "#"
+                    }
+                ]
             },
             {
                 "id": "4",
@@ -50,7 +78,13 @@
                 "team2": "Nacional Asunción",
                 "time": "16:30",
                 "status": "Upcoming",
-                "originalUrl": "#"
+                "originalUrl": "#",
+                "sources": [
+                    {
+                        "name": "Servidor Principal",
+                        "url": "#"
+                    }
+                ]
             },
             {
                 "id": "5",
@@ -58,7 +92,13 @@
                 "team2": "Albion",
                 "time": "08:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZGlzbmV5MQ=="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZGlzbmV5MQ==",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZGlzbmV5MQ=="
+                    }
+                ]
             },
             {
                 "id": "6",
@@ -66,7 +106,13 @@
                 "team2": "Cartaginés",
                 "time": "21:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZnV0dg=="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZnV0dg==",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZnV0dg=="
+                    }
+                ]
             },
             {
                 "id": "8",
@@ -74,7 +120,13 @@
                 "team2": "Nacional",
                 "time": "14:30",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZGlzbmV5MQ=="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZGlzbmV5MQ==",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZGlzbmV5MQ=="
+                    }
+                ]
             },
             {
                 "id": "9",
@@ -82,7 +134,13 @@
                 "team2": "Cerro Largo",
                 "time": "17:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZGlzbmV5MQ=="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZGlzbmV5MQ==",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZGlzbmV5MQ=="
+                    }
+                ]
             },
             {
                 "id": "29",
@@ -90,7 +148,13 @@
                 "team2": "The Strongest",
                 "time": "16:15",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXZlbjE="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXZlbjE=",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXZlbjE="
+                    }
+                ]
             },
             {
                 "id": "31",
@@ -98,7 +162,21 @@
                 "team2": "Audax Italiano",
                 "time": "19:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09dG50c3BvcnRzY2hpbGU="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09dG50c3BvcnRzY2hpbGU="
+                    }
+                ]
             },
             {
                 "id": "35",
@@ -106,7 +184,13 @@
                 "team2": "Puntarenas",
                 "time": "17:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZnV0dg=="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZnV0dg==",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZnV0dg=="
+                    }
+                ]
             },
             {
                 "id": "41",
@@ -114,7 +198,21 @@
                 "team2": "Universidad Chile",
                 "time": "16:30",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0c2NoaWxl"
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09dG50c3BvcnRzY2hpbGU="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09dG50c3BvcnRzY2hpbGU="
+                    }
+                ]
             },
             {
                 "id": "42",
@@ -122,7 +220,13 @@
                 "team2": "Oriente Petrolero",
                 "time": "14:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXZlbjE="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXZlbjE=",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXZlbjE="
+                    }
+                ]
             },
             {
                 "id": "43",
@@ -130,7 +234,13 @@
                 "team2": "Aurora",
                 "time": "18:30",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXZlbjE="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXZlbjE=",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXZlbjE="
+                    }
+                ]
             },
             {
                 "id": "64",
@@ -138,7 +248,13 @@
                 "team2": "Torque",
                 "time": "11:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZGlzbmV5Mg=="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZGlzbmV5Mg==",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZGlzbmV5Mg=="
+                    }
+                ]
             }
         ]
     },
@@ -151,7 +267,25 @@
                 "team2": "Rionegro Águilas",
                 "time": "20:10",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09d2luc3BvcnRzMg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09d2luc3BvcnRzMg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09d2luc3BvcnRzMg=="
+                    }
+                ]
             },
             {
                 "id": "32",
@@ -159,7 +293,25 @@
                 "team2": "Santa Fe",
                 "time": "18:05",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09d2luc3BvcnRzMg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09d2luc3BvcnRzMg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09d2luc3BvcnRzMg=="
+                    }
+                ]
             },
             {
                 "id": "60",
@@ -167,7 +319,25 @@
                 "team2": "Junior",
                 "time": "20:10",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09d2luc3BvcnRzMg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09d2luc3BvcnRzMg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09d2luc3BvcnRzMg=="
+                    }
+                ]
             }
         ]
     },
@@ -180,7 +350,13 @@
                 "team2": "Birmingham City",
                 "time": "11:30",
                 "status": "Upcoming",
-                "originalUrl": "#"
+                "originalUrl": "#",
+                "sources": [
+                    {
+                        "name": "Servidor Principal",
+                        "url": "#"
+                    }
+                ]
             },
             {
                 "id": "65",
@@ -188,7 +364,13 @@
                 "team2": "Lincoln City",
                 "time": "09:00",
                 "status": "Upcoming",
-                "originalUrl": "#"
+                "originalUrl": "#",
+                "sources": [
+                    {
+                        "name": "Servidor Principal",
+                        "url": "#"
+                    }
+                ]
             }
         ]
     },
@@ -201,7 +383,57 @@
                 "team2": "Toluca",
                 "time": "18:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG5teA=="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG5teA==",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG5teA=="
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbm14"
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZXNwbm14"
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZXNwbm14"
+                    },
+                    {
+                        "name": "Opción Alternativa 5",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09dHVkbg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 6",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXR1ZG4="
+                    },
+                    {
+                        "name": "Opción Alternativa 7",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09dHVkbg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 8",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09dHVkbg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 9",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWF6dGVjYTc="
+                    },
+                    {
+                        "name": "Opción Alternativa 10",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09YXp0ZWNhNw=="
+                    },
+                    {
+                        "name": "Opción Alternativa 11",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09YXp0ZWNhNw=="
+                    },
+                    {
+                        "name": "Opción Alternativa 12",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09YXp0ZWNhNw=="
+                    }
+                ]
             },
             {
                 "id": "17",
@@ -209,7 +441,33 @@
                 "team2": "Tigres UANL",
                 "time": "22:10",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9jYW5hbGVzLnBocD9zdHJlYW09Y2FuYWw1"
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9jYW5hbGVzLnBocD9zdHJlYW09Y2FuYWw1",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9jYW5hbGVzLnBocD9zdHJlYW09Y2FuYWw1"
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXR1ZG4="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09dHVkbg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09dHVkbg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 5",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09dHVkbg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 6",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09dW5pdmlzaW9u"
+                    }
+                ]
             },
             {
                 "id": "44",
@@ -217,7 +475,33 @@
                 "team2": "Juárez",
                 "time": "20:10",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9jYW5hbGVzLnBocD9zdHJlYW09Y2FuYWw1"
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9jYW5hbGVzLnBocD9zdHJlYW09Y2FuYWw1",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9jYW5hbGVzLnBocD9zdHJlYW09Y2FuYWw1"
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXR1ZG4="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09dHVkbg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09dHVkbg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 5",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09dHVkbg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 6",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09dW5pdmlzaW9u"
+                    }
+                ]
             }
         ]
     },
@@ -230,7 +514,13 @@
                 "team2": "Bristol Rovers",
                 "time": "09:00",
                 "status": "Upcoming",
-                "originalUrl": "#"
+                "originalUrl": "#",
+                "sources": [
+                    {
+                        "name": "Servidor Principal",
+                        "url": "#"
+                    }
+                ]
             }
         ]
     },
@@ -243,7 +533,13 @@
                 "team2": "NEC",
                 "time": "09:30",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjNfbmw="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjNfbmw=",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjNfbmw="
+                    }
+                ]
             },
             {
                 "id": "14",
@@ -251,7 +547,21 @@
                 "team2": "Cambuur",
                 "time": "14:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjFfbmw="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjFfbmw=",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjFfbmw="
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZXNwbjFfbmw="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZXNwbjFfbmw="
+                    }
+                ]
             },
             {
                 "id": "68",
@@ -259,7 +569,37 @@
                 "team2": "AZ",
                 "time": "11:45",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjFfbmw="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjFfbmw=",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjFfbmw="
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZXNwbjFfbmw="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZXNwbjFfbmw="
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG5teA=="
+                    },
+                    {
+                        "name": "Opción Alternativa 5",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbm14"
+                    },
+                    {
+                        "name": "Opción Alternativa 6",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZXNwbm14"
+                    },
+                    {
+                        "name": "Opción Alternativa 7",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZXNwbm14"
+                    }
+                ]
             },
             {
                 "id": "69",
@@ -267,7 +607,17 @@
                 "team2": "PSV",
                 "time": "13:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjRteA=="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjRteA==",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjRteA=="
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjJfbmw="
+                    }
+                ]
             }
         ]
     },
@@ -280,7 +630,13 @@
                 "team2": "Miramar Misiones",
                 "time": "08:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZGlzbmV5MQ=="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZGlzbmV5MQ==",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZGlzbmV5MQ=="
+                    }
+                ]
             },
             {
                 "id": "16",
@@ -288,7 +644,13 @@
                 "team2": "Paysandu",
                 "time": "14:00",
                 "status": "Upcoming",
-                "originalUrl": "#"
+                "originalUrl": "#",
+                "sources": [
+                    {
+                        "name": "Servidor Principal",
+                        "url": "#"
+                    }
+                ]
             },
             {
                 "id": "72",
@@ -296,7 +658,13 @@
                 "team2": "Atenas",
                 "time": "11:00",
                 "status": "Upcoming",
-                "originalUrl": "#"
+                "originalUrl": "#",
+                "sources": [
+                    {
+                        "name": "Servidor Principal",
+                        "url": "#"
+                    }
+                ]
             }
         ]
     },
@@ -309,7 +677,25 @@
                 "team2": "",
                 "time": "10:20",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG41"
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG41",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG41"
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjU="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZXNwbjU="
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZXNwbjU="
+                    }
+                ]
             },
             {
                 "id": "19",
@@ -317,7 +703,25 @@
                 "team2": "",
                 "time": "17:20",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG4z"
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG4z",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG4z"
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjM="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZXNwbjM="
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZXNwbjM="
+                    }
+                ]
             },
             {
                 "id": "49",
@@ -325,7 +729,25 @@
                 "team2": "",
                 "time": "10:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG4y"
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG4y",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG4y"
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjI="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZXNwbjI="
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZXNwbjI="
+                    }
+                ]
             },
             {
                 "id": "50",
@@ -333,7 +755,25 @@
                 "team2": "",
                 "time": "12:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG4z"
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG4z",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG4z"
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjM="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZXNwbjM="
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZXNwbjM="
+                    }
+                ]
             },
             {
                 "id": "51",
@@ -341,7 +781,25 @@
                 "team2": "",
                 "time": "18:00",
                 "status": "Upcoming",
-                "originalUrl": "embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9vbmxpbmUvY2FuYWxlcy5waHA/c3RyZWFtPWVzcG40"
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjQ=",
+                "sources": [
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjQ="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZXNwbjQ="
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZXNwbjQ="
+                    },
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9vbmxpbmUvY2FuYWxlcy5waHA/c3RyZWFtPWVzcG40"
+                    }
+                ]
             }
         ]
     },
@@ -354,7 +812,21 @@
                 "team2": "Getafe",
                 "time": "12:30",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbg=="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbg==",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZXNwbg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZXNwbg=="
+                    }
+                ]
             },
             {
                 "id": "55",
@@ -362,7 +834,33 @@
                 "team2": "Rayo Vallecano",
                 "time": "14:30",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbg=="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbg==",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZXNwbg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZXNwbg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbmRlcG9ydGVz"
+                    },
+                    {
+                        "name": "Opción Alternativa 5",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbmRlcG9ydGVz"
+                    },
+                    {
+                        "name": "Opción Alternativa 6",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZXNwbmRlcG9ydGVz"
+                    }
+                ]
             }
         ]
     },
@@ -375,7 +873,13 @@
                 "team2": "Porto",
                 "time": "14:30",
                 "status": "Upcoming",
-                "originalUrl": "#"
+                "originalUrl": "#",
+                "sources": [
+                    {
+                        "name": "Servidor Principal",
+                        "url": "#"
+                    }
+                ]
             }
         ]
     },
@@ -388,7 +892,13 @@
                 "team2": "Real Sociedad",
                 "time": "08:00",
                 "status": "Upcoming",
-                "originalUrl": "#"
+                "originalUrl": "#",
+                "sources": [
+                    {
+                        "name": "Servidor Principal",
+                        "url": "#"
+                    }
+                ]
             },
             {
                 "id": "23",
@@ -396,7 +906,13 @@
                 "team2": "Milan",
                 "time": "09:45",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09YmVpbnNwb3J0ZXM="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09YmVpbnNwb3J0ZXM=",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09YmVpbnNwb3J0ZXM="
+                    }
+                ]
             },
             {
                 "id": "34",
@@ -404,7 +920,25 @@
                 "team2": "Real Betis",
                 "time": "12:30",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXR5Y3Nwb3J0cw=="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXR5Y3Nwb3J0cw==",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXR5Y3Nwb3J0cw=="
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09dHljc3BvcnRz"
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09dHljc3BvcnRz"
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09dHljc3BvcnRz"
+                    }
+                ]
             },
             {
                 "id": "56",
@@ -412,7 +946,13 @@
                 "team2": "Hoffenheim",
                 "time": "06:00",
                 "status": "Upcoming",
-                "originalUrl": "#"
+                "originalUrl": "#",
+                "sources": [
+                    {
+                        "name": "Servidor Principal",
+                        "url": "#"
+                    }
+                ]
             },
             {
                 "id": "57",
@@ -420,7 +960,13 @@
                 "team2": "RB Leipzig",
                 "time": "08:30",
                 "status": "Upcoming",
-                "originalUrl": "#"
+                "originalUrl": "#",
+                "sources": [
+                    {
+                        "name": "Servidor Principal",
+                        "url": "#"
+                    }
+                ]
             },
             {
                 "id": "58",
@@ -428,7 +974,37 @@
                 "team2": "Bayer Leverkusen",
                 "time": "09:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbg=="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbg==",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZXNwbg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZXNwbg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG5teA=="
+                    },
+                    {
+                        "name": "Opción Alternativa 5",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbm14"
+                    },
+                    {
+                        "name": "Opción Alternativa 6",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZXNwbm14"
+                    },
+                    {
+                        "name": "Opción Alternativa 7",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZXNwbm14"
+                    }
+                ]
             },
             {
                 "id": "59",
@@ -436,7 +1012,13 @@
                 "team2": "Hoffenheim",
                 "time": "09:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjJteA=="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjJteA==",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjJteA=="
+                    }
+                ]
             }
         ]
     },
@@ -449,7 +1031,13 @@
                 "team2": "Südtirol",
                 "time": "11:00",
                 "status": "Upcoming",
-                "originalUrl": "#"
+                "originalUrl": "#",
+                "sources": [
+                    {
+                        "name": "Servidor Principal",
+                        "url": "#"
+                    }
+                ]
             },
             {
                 "id": "25",
@@ -457,7 +1045,13 @@
                 "team2": "Modena",
                 "time": "13:45",
                 "status": "Upcoming",
-                "originalUrl": "#"
+                "originalUrl": "#",
+                "sources": [
+                    {
+                        "name": "Servidor Principal",
+                        "url": "#"
+                    }
+                ]
             },
             {
                 "id": "36",
@@ -465,7 +1059,13 @@
                 "team2": "Calcio Padova",
                 "time": "11:30",
                 "status": "Upcoming",
-                "originalUrl": "#"
+                "originalUrl": "#",
+                "sources": [
+                    {
+                        "name": "Servidor Principal",
+                        "url": "#"
+                    }
+                ]
             },
             {
                 "id": "37",
@@ -473,7 +1073,13 @@
                 "team2": "Carrarese",
                 "time": "14:15",
                 "status": "Upcoming",
-                "originalUrl": "#"
+                "originalUrl": "#",
+                "sources": [
+                    {
+                        "name": "Servidor Principal",
+                        "url": "#"
+                    }
+                ]
             }
         ]
     },
@@ -486,7 +1092,25 @@
                 "team2": "Unión Santa Fe",
                 "time": "12:30",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbnByZW1pdW0="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZXNwbnByZW1pdW0="
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZXNwbnByZW1pdW0="
+                    }
+                ]
             },
             {
                 "id": "27",
@@ -494,7 +1118,25 @@
                 "team2": "Independiente Rivadavia",
                 "time": "17:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbnByZW1pdW0="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZXNwbnByZW1pdW0="
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZXNwbnByZW1pdW0="
+                    }
+                ]
             },
             {
                 "id": "28",
@@ -502,7 +1144,41 @@
                 "team2": "Boca Juniors",
                 "time": "19:15",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG4y"
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG4y",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG4y"
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjI="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZXNwbjI="
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZXNwbjI="
+                    },
+                    {
+                        "name": "Opción Alternativa 5",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+                    },
+                    {
+                        "name": "Opción Alternativa 6",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09dG50c3BvcnRz"
+                    },
+                    {
+                        "name": "Opción Alternativa 7",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09dG50c3BvcnRz"
+                    },
+                    {
+                        "name": "Opción Alternativa 8",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09dG50c3BvcnRz"
+                    }
+                ]
             },
             {
                 "id": "38",
@@ -510,7 +1186,25 @@
                 "team2": "Tigre",
                 "time": "12:30",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09dG50c3BvcnRz"
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09dG50c3BvcnRz"
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09dG50c3BvcnRz"
+                    }
+                ]
             },
             {
                 "id": "39",
@@ -518,7 +1212,25 @@
                 "team2": "Gimnasia La Plata",
                 "time": "14:45",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG5wcmVtaXVt",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG5wcmVtaXVt"
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbnByZW1pdW0="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZXNwbnByZW1pdW0="
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZXNwbnByZW1pdW0="
+                    }
+                ]
             },
             {
                 "id": "40",
@@ -526,7 +1238,25 @@
                 "team2": "Deportivo Riestra",
                 "time": "17:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw==",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXRudHNwb3J0cw=="
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09dG50c3BvcnRz"
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09dG50c3BvcnRz"
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09dG50c3BvcnRz"
+                    }
+                ]
             }
         ]
     },
@@ -539,7 +1269,13 @@
                 "team2": "Palmeiras",
                 "time": "14:30",
                 "status": "Upcoming",
-                "originalUrl": "#"
+                "originalUrl": "#",
+                "sources": [
+                    {
+                        "name": "Servidor Principal",
+                        "url": "#"
+                    }
+                ]
             },
             {
                 "id": "47",
@@ -547,7 +1283,13 @@
                 "team2": "RB Bragantino",
                 "time": "16:30",
                 "status": "Upcoming",
-                "originalUrl": "#"
+                "originalUrl": "#",
+                "sources": [
+                    {
+                        "name": "Servidor Principal",
+                        "url": "#"
+                    }
+                ]
             },
             {
                 "id": "48",
@@ -555,7 +1297,17 @@
                 "team2": "Coritiba",
                 "time": "19:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXNwb3J0dg=="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXNwb3J0dg==",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXNwb3J0dg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09c3BvcnR2"
+                    }
+                ]
             }
         ]
     },
@@ -568,7 +1320,21 @@
                 "team2": "Oss",
                 "time": "09:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjFfbmw="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjFfbmw=",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjFfbmw="
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZXNwbjFfbmw="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZXNwbjFfbmw="
+                    }
+                ]
             }
         ]
     },
@@ -581,7 +1347,25 @@
                 "team2": "Benevento",
                 "time": "14:15",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWRzcG9ydHM="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWRzcG9ydHM=",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWRzcG9ydHM="
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZHNwb3J0cw=="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZHNwb3J0cw=="
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZHNwb3J0cw=="
+                    }
+                ]
             }
         ]
     },
@@ -594,7 +1378,25 @@
                 "team2": "Alianza Atlético",
                 "time": "13:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWxpZ2ExbWF4",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09bGlnYTFtYXg="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09bGlnYTFtYXg="
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09bGlnYTFtYXg="
+                    }
+                ]
             },
             {
                 "id": "53",
@@ -602,7 +1404,25 @@
                 "team2": "Melgar",
                 "time": "15:30",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWxpZ2ExbWF4",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09bGlnYTFtYXg="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09bGlnYTFtYXg="
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09bGlnYTFtYXg="
+                    }
+                ]
             },
             {
                 "id": "54",
@@ -610,7 +1430,25 @@
                 "team2": "UTC Cajamarca",
                 "time": "19:30",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWxpZ2ExbWF4",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09bGlnYTFtYXg="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09bGlnYTFtYXg="
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09bGlnYTFtYXg="
+                    }
+                ]
             }
         ]
     },
@@ -623,7 +1461,37 @@
                 "team2": "Leones del Norte",
                 "time": "14:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw==",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZWNkZl9saWdhcHJv"
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZWNkZl9saWdhcHJv"
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZWNkZl9saWdhcHJv"
+                    },
+                    {
+                        "name": "Opción Alternativa 5",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZWNkZg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 6",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZWNkZg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 7",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZWNkZg=="
+                    }
+                ]
             },
             {
                 "id": "62",
@@ -631,7 +1499,37 @@
                 "team2": "Libertad",
                 "time": "16:30",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw==",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZWNkZl9saWdhcHJv"
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZWNkZl9saWdhcHJv"
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZWNkZl9saWdhcHJv"
+                    },
+                    {
+                        "name": "Opción Alternativa 5",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZWNkZg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 6",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZWNkZg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 7",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZWNkZg=="
+                    }
+                ]
             },
             {
                 "id": "63",
@@ -639,7 +1537,37 @@
                 "team2": "Barcelona",
                 "time": "19:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw==",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZWNkZl9saWdhcHJv"
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZWNkZl9saWdhcHJv"
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZWNkZl9saWdhcHJv"
+                    },
+                    {
+                        "name": "Opción Alternativa 5",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZWNkZg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 6",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZWNkZg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 7",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZWNkZg=="
+                    }
+                ]
             }
         ]
     },
@@ -652,7 +1580,13 @@
                 "team2": "Leicester City",
                 "time": "06:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZGlzbmV5MQ=="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZGlzbmV5MQ==",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZGlzbmV5MQ=="
+                    }
+                ]
             }
         ]
     },
@@ -665,7 +1599,25 @@
                 "team2": "Tlaxcala",
                 "time": "20:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG5teA=="
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG5teA==",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG5teA=="
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbm14"
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZXNwbm14"
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZXNwbm14"
+                    }
+                ]
             }
         ]
     },
@@ -678,7 +1630,21 @@
                 "team2": "Trabzonspor",
                 "time": "11:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09Zm94c3BvcnRz"
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09Zm94c3BvcnRz",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09Zm94c3BvcnRz"
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09Zm94c3BvcnRz"
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09YmVpbnNwb3J0ZXM="
+                    }
+                ]
             },
             {
                 "id": "71",
@@ -686,7 +1652,13 @@
                 "team2": "Fenerbahçe",
                 "time": "13:30",
                 "status": "Upcoming",
-                "originalUrl": "#"
+                "originalUrl": "#",
+                "sources": [
+                    {
+                        "name": "Servidor Principal",
+                        "url": "#"
+                    }
+                ]
             }
         ]
     }
