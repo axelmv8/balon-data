@@ -1,1 +1,105 @@
-[]
+[
+    {
+        "name": "Liga 1",
+        "matches": [
+            {
+                "id": "1",
+                "team1": "Alianza Atlético",
+                "team2": "Sporting Cristal",
+                "time": "15:00",
+                "status": "Upcoming",
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWxpZ2ExbWF4",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09bGlnYTFtYXg="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09bGlnYTFtYXg="
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09bGlnYTFtYXg="
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "team1": "FC Cajamarca",
+                "team2": "Atlético Grau",
+                "time": "12:00",
+                "status": "Upcoming",
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWxpZ2ExbWF4",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWxpZ2ExbWF4"
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09bGlnYTFtYXg="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09bGlnYTFtYXg="
+                    },
+                    {
+                        "name": "Opción Alternativa 4",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09bGlnYTFtYXg="
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "LaLiga",
+        "matches": [
+            {
+                "id": "3",
+                "team1": "Real Betis",
+                "team2": "Real Sociedad",
+                "time": "14:00",
+                "status": "Upcoming",
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZHNwb3J0cw==",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZHNwb3J0cw=="
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Premier League",
+        "matches": [
+            {
+                "id": "4",
+                "team1": "Arsenal",
+                "team2": "Coventry City",
+                "time": "14:00",
+                "status": "Upcoming",
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbg==",
+                "sources": [
+                    {
+                        "name": "Servidor Principal (HD)",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 2",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZXNwbg=="
+                    },
+                    {
+                        "name": "Opción Alternativa 3",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZXNwbg=="
+                    }
+                ]
+            }
+        ]
+    }
+]
