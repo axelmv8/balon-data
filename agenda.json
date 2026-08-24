@@ -84,7 +84,7 @@
                 ]
             },
             {
-                "id": "24",
+                "id": "21",
                 "team1": "Osasuna",
                 "team2": "Levante",
                 "time": "12:30",
@@ -246,7 +246,7 @@
                 ]
             },
             {
-                "id": "26",
+                "id": "23",
                 "team1": "Talleres Córdoba",
                 "team2": "Rosario Central",
                 "time": "19:15",
@@ -357,49 +357,7 @@
                 ]
             },
             {
-                "id": "23",
-                "team1": "Bologna",
-                "team2": "Lazio",
-                "time": "11:30",
-                "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG4y",
-                "sources": [
-                    {
-                        "name": "Servidor Principal (HD)",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWVzcG4y"
-                    },
-                    {
-                        "name": "Opción Alternativa 2",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjI="
-                    },
-                    {
-                        "name": "Opción Alternativa 3",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09ZXNwbjI="
-                    },
-                    {
-                        "name": "Opción Alternativa 4",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09ZXNwbjI="
-                    },
-                    {
-                        "name": "Opción Alternativa 5",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZGlzbmV5MQ=="
-                    },
-                    {
-                        "name": "Opción Alternativa 6",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09ZXNwbjJteA=="
-                    },
-                    {
-                        "name": "Opción Alternativa 7",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPXVuaXZlcnNv"
-                    },
-                    {
-                        "name": "Opción Alternativa 8",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09dW5pdmVyc28="
-                    }
-                ]
-            },
-            {
-                "id": "25",
+                "id": "22",
                 "team1": "Roma",
                 "team2": "Fiorentina",
                 "time": "13:45",
@@ -627,32 +585,6 @@
                         "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09Zm94ZGVwb3J0ZXM="
                     }
                 ]
-            },
-            {
-                "id": "19",
-                "team1": "NEOM",
-                "team2": "Al Quadisiya",
-                "time": "11:40",
-                "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWZveGRlcG9ydGVz",
-                "sources": [
-                    {
-                        "name": "Servidor Principal (HD)",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC9oZC5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
-                    },
-                    {
-                        "name": "Opción Alternativa 2",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09Zm94ZGVwb3J0ZXM="
-                    },
-                    {
-                        "name": "Opción Alternativa 3",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8yLnBocD9zdHJlYW09Zm94ZGVwb3J0ZXM="
-                    },
-                    {
-                        "name": "Opción Alternativa 4",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8zLnBocD9zdHJlYW09Zm94ZGVwb3J0ZXM="
-                    }
-                ]
             }
         ]
     },
@@ -660,21 +592,7 @@
         "name": "LaLiga SmartBank",
         "matches": [
             {
-                "id": "20",
-                "team1": "Celta de Vigo II",
-                "team2": "FC Andorra",
-                "time": "12:00",
-                "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09aHlwZXJtb3Rpb24x",
-                "sources": [
-                    {
-                        "name": "Servidor Principal (HD)",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly9mdXRib2xsaWJyZS5jaC8xLnBocD9zdHJlYW09aHlwZXJtb3Rpb24x"
-                    }
-                ]
-            },
-            {
-                "id": "21",
+                "id": "19",
                 "team1": "Granada",
                 "team2": "Mallorca",
                 "time": "14:30",
@@ -693,7 +611,7 @@
         "name": "Partidos de Hoy",
         "matches": [
             {
-                "id": "22",
+                "id": "20",
                 "team1": "MLB – Arizona Diamondbacks vs. Chicago Cubs",
                 "team2": "",
                 "time": "20:30",
