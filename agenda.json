@@ -1,28 +1,9 @@
 [
     {
-        "name": "Copa de Primera",
-        "matches": [
-            {
-                "id": "1",
-                "team1": "2 de Mayo",
-                "team2": "Sportivo Luqueño",
-                "time": "16:30",
-                "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoy",
-                "sources": [
-                    {
-                        "name": "Servidor Principal (HD)",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoy"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "name": "Copa de Brasil",
         "matches": [
             {
-                "id": "2",
+                "id": "1",
                 "team1": "Atlético Mineiro",
                 "team2": "Cruzeiro",
                 "time": "19:00",
@@ -56,6 +37,22 @@
                     {
                         "name": "Opción Alternativa 7",
                         "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWRzcG9ydHM="
+                    },
+                    {
+                        "name": "Opción Alternativa 8",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1mb3hkZXBvcnRlcw=="
+                    },
+                    {
+                        "name": "Opción Alternativa 9",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
+                    },
+                    {
+                        "name": "Opción Alternativa 10",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
+                    },
+                    {
+                        "name": "Opción Alternativa 11",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWZveGRlcG9ydGVz"
                     }
                 ]
             }
@@ -65,7 +62,7 @@
         "name": "Partidos de Hoy",
         "matches": [
             {
-                "id": "3",
+                "id": "2",
                 "team1": "Tenis – US Open – Primera Ronda",
                 "team2": "",
                 "time": "18:00",
@@ -91,7 +88,7 @@
                 ]
             },
             {
-                "id": "4",
+                "id": "3",
                 "team1": "MLB – Arizona Diamondbacks vs. Philadelphia Phillies",
                 "team2": "",
                 "time": "20:30",
@@ -119,41 +116,10 @@
         ]
     },
     {
-        "name": "Liga 1",
-        "matches": [
-            {
-                "id": "5",
-                "team1": "Atlético Grau",
-                "team2": "Melgar",
-                "time": "15:00",
-                "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA==",
-                "sources": [
-                    {
-                        "name": "Servidor Principal (HD)",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1saWdhMW1heA=="
-                    },
-                    {
-                        "name": "Opción Alternativa 2",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWxpZ2ExbWF4"
-                    },
-                    {
-                        "name": "Opción Alternativa 3",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWxpZ2ExbWF4"
-                    },
-                    {
-                        "name": "Opción Alternativa 4",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWxpZ2ExbWF4"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "name": "Primera A",
         "matches": [
             {
-                "id": "6",
+                "id": "4",
                 "team1": "Fortaleza CEIF",
                 "team2": "Once Caldas",
                 "time": "20:00",
@@ -184,45 +150,7 @@
         "name": "Serie A",
         "matches": [
             {
-                "id": "7",
-                "team1": "Delfin",
-                "team2": "Técnico Universitario",
-                "time": "16:30",
-                "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8=",
-                "sources": [
-                    {
-                        "name": "Servidor Principal (HD)",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
-                    },
-                    {
-                        "name": "Opción Alternativa 2",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
-                    },
-                    {
-                        "name": "Opción Alternativa 3",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
-                    },
-                    {
-                        "name": "Opción Alternativa 4",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
-                    },
-                    {
-                        "name": "Opción Alternativa 5",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGY="
-                    },
-                    {
-                        "name": "Opción Alternativa 6",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGY="
-                    },
-                    {
-                        "name": "Opción Alternativa 7",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
-                    }
-                ]
-            },
-            {
-                "id": "8",
+                "id": "5",
                 "team1": "LDU Quito",
                 "team2": "Mushuc Runa",
                 "time": "19:00",
