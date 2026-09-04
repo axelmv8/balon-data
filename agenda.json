@@ -42,33 +42,10 @@
         ]
     },
     {
-        "name": "Primera B",
-        "matches": [
-            {
-                "id": "3",
-                "team1": "Internacional Palmira",
-                "team2": "Real Cundinamarca",
-                "time": "18:00",
-                "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
-                "sources": [
-                    {
-                        "name": "Servidor Principal (HD)",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI="
-                    },
-                    {
-                        "name": "Opción Alternativa 2",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "name": "Partidos de Hoy",
         "matches": [
             {
-                "id": "4",
+                "id": "3",
                 "team1": "Tenis – US Open – Segunda Ronda",
                 "team2": "",
                 "time": "18:00",
@@ -94,7 +71,7 @@
                 ]
             },
             {
-                "id": "5",
+                "id": "4",
                 "team1": "ESPN Knockout – Lenar Perez vs. Thabiso Mchunu",
                 "team2": "",
                 "time": "18:30",
@@ -122,67 +99,10 @@
         ]
     },
     {
-        "name": "Primera División",
-        "matches": [
-            {
-                "id": "6",
-                "team1": "Deportivo Recoleta",
-                "team2": "Cerro Porteño",
-                "time": "16:30",
-                "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoy",
-                "sources": [
-                    {
-                        "name": "Servidor Principal (HD)",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXoy"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "name": "Serie A",
         "matches": [
             {
-                "id": "7",
-                "team1": "Leones del Norte",
-                "team2": "Orense",
-                "time": "16:30",
-                "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8=",
-                "sources": [
-                    {
-                        "name": "Servidor Principal (HD)",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lY2RmX2xpZ2Fwcm8="
-                    },
-                    {
-                        "name": "Opción Alternativa 2",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
-                    },
-                    {
-                        "name": "Opción Alternativa 3",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
-                    },
-                    {
-                        "name": "Opción Alternativa 4",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGZfbGlnYXBybw=="
-                    },
-                    {
-                        "name": "Opción Alternativa 5",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVjZGY="
-                    },
-                    {
-                        "name": "Opción Alternativa 6",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVjZGY="
-                    },
-                    {
-                        "name": "Opción Alternativa 7",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVjZGY="
-                    }
-                ]
-            },
-            {
-                "id": "8",
+                "id": "5",
                 "team1": "Libertad",
                 "team2": "Emelec",
                 "time": "19:00",
@@ -225,7 +145,7 @@
         "name": "Copa de Brasil",
         "matches": [
             {
-                "id": "9",
+                "id": "6",
                 "team1": "Grêmio",
                 "team2": "Internacional",
                 "time": "18:00",
@@ -276,7 +196,7 @@
         "name": "Primera A",
         "matches": [
             {
-                "id": "10",
+                "id": "7",
                 "team1": "Deportivo Pereira",
                 "team2": "Medellín",
                 "time": "20:00",
@@ -304,22 +224,27 @@
                         "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWZhbmF0aXo0"
                     }
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "name": "Primera B",
+        "matches": [
             {
-                "id": "11",
-                "team1": "América de Cali",
-                "team2": "Alianza",
+                "id": "8",
+                "team1": "Internacional Palmira",
+                "team2": "Real Cundinamarca",
                 "time": "18:00",
                 "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy",
+                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI=",
                 "sources": [
                     {
                         "name": "Servidor Principal (HD)",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy"
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI="
                     },
                     {
                         "name": "Opción Alternativa 2",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT13aW5zcG9ydHMy"
                     },
                     {
                         "name": "Opción Alternativa 3",
@@ -328,6 +253,18 @@
                     {
                         "name": "Opción Alternativa 4",
                         "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+                    },
+                    {
+                        "name": "Opción Alternativa 5",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+                    },
+                    {
+                        "name": "Opción Alternativa 6",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPXdpbnNwb3J0czI="
+                    },
+                    {
+                        "name": "Opción Alternativa 7",
+                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPXdpbnNwb3J0czI="
                     }
                 ]
             }
