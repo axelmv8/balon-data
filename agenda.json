@@ -30,58 +30,6 @@
             },
             {
                 "id": "37",
-                "team1": "F3 Monza – Práctica",
-                "team2": "",
-                "time": "01:30",
-                "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
-                "sources": [
-                    {
-                        "name": "Servidor Principal (HD)",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
-                    },
-                    {
-                        "name": "Opción Alternativa 2",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
-                    },
-                    {
-                        "name": "Opción Alternativa 3",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y"
-                    },
-                    {
-                        "name": "Opción Alternativa 4",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
-                    }
-                ]
-            },
-            {
-                "id": "38",
-                "team1": "F2 Monza – Práctica",
-                "team2": "",
-                "time": "02:50",
-                "status": "Upcoming",
-                "originalUrl": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg==",
-                "sources": [
-                    {
-                        "name": "Servidor Principal (HD)",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vaGQucGhwP3N0cmVhbT1lc3BuMg=="
-                    },
-                    {
-                        "name": "Opción Alternativa 2",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMS5waHA/c3RyZWFtPWVzcG4y"
-                    },
-                    {
-                        "name": "Opción Alternativa 3",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMi5waHA/c3RyZWFtPWVzcG4y"
-                    },
-                    {
-                        "name": "Opción Alternativa 4",
-                        "url": "https://futbollibreenvivotv.pe/embed/eventos.html?r=aHR0cHM6Ly90dmY5MC5jb20vMy5waHA/c3RyZWFtPWVzcG4y"
-                    }
-                ]
-            },
-            {
-                "id": "39",
                 "team1": "Ciclismo – La Vuelta – Etapa #13",
                 "team2": "",
                 "time": "07:45",
@@ -107,7 +55,7 @@
                 ]
             },
             {
-                "id": "40",
+                "id": "38",
                 "team1": "Tenis – US Open – Tercera Ronda",
                 "team2": "",
                 "time": "10:00",
@@ -133,7 +81,7 @@
                 ]
             },
             {
-                "id": "41",
+                "id": "39",
                 "team1": "ESPN Knockout – Andy Ruiz vs. Damian Knyba",
                 "team2": "",
                 "time": "19:00",
